@@ -1,0 +1,9 @@
+{
+  "name": "koreng",
+  "app_id": "287d3db1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": []
+}

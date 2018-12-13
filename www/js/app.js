@@ -104,7 +104,7 @@ angular.module('starter', ['ionic','ionic.service.core', 'ionic.service.analytic
   $scope.showAlert = function() {
    var alertPopup = $ionicPopup.alert({
      title: 'Copy Success!',
-     template: '쿨립보드에 복사되었습니다'
+     template: '클립보드에 복사되었습니다'
    });
 
    alertPopup.then(function(res) {
